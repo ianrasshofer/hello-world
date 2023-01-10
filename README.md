@@ -1,4 +1,4 @@
-# hello-world
+# Hello-World
 Hello World repository for Git tutorial
 This is an example repository for the Git tutorial on https://www.github.com
 This tutoial focuses mainly on Git and using GitHub as its remote.
